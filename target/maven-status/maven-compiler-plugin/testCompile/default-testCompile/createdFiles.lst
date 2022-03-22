@@ -1,0 +1,15 @@
+pages/AutomationPracticeHomePagePage.class
+stepDefinition/LoginDemoProject.class
+runners/RunnerLoginDemoProject.class
+runners/RunnerCreateNewUserAutomationPractice.class
+runners/RunnerGeneral.class
+runners/RunnerTestLogin.class
+pages/AuthenticationPage.class
+pages/LoginDemoProjectPage.class
+pages/CreateAndAccoutnPage.class
+stepDefinition/LoginSteps.class
+runners/RunnerSearch.class
+stepDefinition/GoogleSearch.class
+runners/RunnerGoogleSearch.class
+stepDefinition/StepDefinitionCreateNewAccountAutmaionPractice.class
+stepDefinition/SearchSteps.class
